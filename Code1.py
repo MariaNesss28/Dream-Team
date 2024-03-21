@@ -28,3 +28,4 @@ print(func())
 
 print(func())
 
+print(counter)
