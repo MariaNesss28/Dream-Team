@@ -24,8 +24,8 @@ def cash(func):
 
 @cash
 def func():
-    # умножает наше число на 100
-    x = num * 100
+    # умножает наше число на 1000
+    x = num * 1000
     print("Кеш")
     return x
 
