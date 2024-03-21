@@ -22,7 +22,7 @@ def func():
     x=num * 100
     print('Кеш')
     return x
-
+#я написала свой коммантарий. Катюня
 print(func())                      
 print(func())
 
